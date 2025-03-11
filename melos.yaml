@@ -1,0 +1,4 @@
+name: qrscanner
+packages:
+  - apps/*
+  - packages/*

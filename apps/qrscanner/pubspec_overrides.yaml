@@ -1,0 +1,10 @@
+# melos_managed_dependency_overrides: auth,core,scanner,ui
+dependency_overrides:
+  auth:
+    path: ..\\..\\packages\\auth
+  core:
+    path: ..\\..\\packages\\core
+  scanner:
+    path: ..\\..\\packages\\scanner
+  ui:
+    path: ..\\..\\packages\\ui
